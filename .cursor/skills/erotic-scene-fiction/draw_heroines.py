@@ -30,7 +30,7 @@ def parse_cards(text: str) -> list[dict]:
         if current is None:
             continue
         fm = FIELD.match(line.strip())
-    if fm:
+        if fm:
             current[fm.group(1)] = fm.group(2).strip()
             if fm.group(1) == "姓名":
                 current["姓名"] = fm.group(2).split("（")[0].strip()
