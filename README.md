@@ -4,6 +4,6 @@ cursor云端文件夹
 
 ## 小说
 
-- [谢珊珊·五日](novels/谢珊珊-五日.md)
-- [刘婵 · 目录](novels/刘婵/README.md)
-- [刘婵 · 全书（点目录即可跳转）](novels/刘婵/book.md)
+<p><a href="novels/谢珊珊-五日.md">谢珊珊·五日</a></p>
+<p><a href="novels/liu-chan.md"><strong>刘婵 · 打开全书（点文首目录跳章）</strong></a></p>
+<p><a href="novels/liu-chan/README.md">刘婵 · 分章列表</a></p>
