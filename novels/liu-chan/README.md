@@ -1,6 +1,7 @@
 # 刘婵
 
 <p><a href="../liu-chan.md"><strong>打开全书（点文首目录即可跳章）</strong></a></p>
+<p><a href="人物卡.md"><strong>人物卡（复制进新对话做角色扮演）</strong></a></p>
 
 <p>或按章打开：</p>
 <ol>
